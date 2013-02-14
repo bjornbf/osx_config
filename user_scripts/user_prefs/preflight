@@ -1,0 +1,5 @@
+#!/bin/bash
+# If the package get upgraded, I need to remove .UserPrefsSetupDone to run the setup again.
+# If file exist, delete .UserPrefsSetupDone
+find /Users -name '.UserPrefsSetupDone' -type f -delete
+exit 0
