@@ -1,0 +1,7 @@
+Scripts for maintaining computerlabs used for videoediting. 
+Originaly by Mike Bombich 
+
+The loginhook wipes the labaccount every time the user logs in, and copy the profile from a template.
+useraccount in this example is lmok
+
+
