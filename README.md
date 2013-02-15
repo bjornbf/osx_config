@@ -1,1 +1,2 @@
-scripts for configuring osx machine and user settings
+scripts for configuring Mac OS X, machine and user settings.
+Including Makefiles for the luggage
