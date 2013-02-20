@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_className</key>
+	<string>ABExchangeSource</string>
+	<key>disabled</key>
+	<integer>0</integer>
+	<key>emailAddress</key>
+	<string>user.name@domain.com</string>
+	<key>externalUseSSL</key>
+	<integer>0</integer>
+	<key>fullName</key>
+	<string>User Name</string>
+	<key>name</key>
+	<string>user.name@domain.com</string>
+	<key>serverName</key>
+	<string>server.domain.com</string>
+	<key>serverRootPath</key>
+	<string>/ews/exchange.asmx</string>
+	<key>useSSL</key>
+	<integer>1</integer>
+	<key>userName</key>
+	<string>user</string>
+</dict>
+</plist>

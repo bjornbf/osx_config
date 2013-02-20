@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AccountsVersion</key>
+	<integer>4</integer>
+	<key>DeliveryAccounts</key>
+	<array/>
+	<key>MailAccounts</key>
+	<array>
+		<dict>
+			<key>AccountName</key>
+			<string></string>
+			<key>AccountPath</key>
+			<string></string>
+			<key>AccountType</key>
+			<string>EWSAccount</string>
+			<key>DraftsMailboxName</key>
+			<string>Drafts</string>
+			<key>EmailAddresses</key>
+			<array>
+			</array>
+			<key>FullUserName</key>
+			<string></string>
+			<key>Hostname</key>
+			<string></string>
+			<key>InboxMailboxName</key>
+			<string>Inbox</string>
+			<key>InternalServerPath</key>
+			<string></string>
+			<key>JournalMailboxName</key>
+			<string>Journal</string>
+			<key>JunkMailboxName</key>
+			<string>Junk E-Mail</string>
+			<key>LastUsedAutodiscoverURL</key>
+			<string>https://autodiscover.domain.com/autodiscover/autodiscover.xml</string>
+			<key>NotesMailboxName</key>
+			<string>Notes</string>
+			<key>OutboxMailboxName</key>
+			<string>Outbox</string>
+			<key>SMTPIdentifier</key>
+			<string>EWSDelivery</string>
+			<key>SSLEnabled</key>
+			<string>YES</string>
+			<key>SentMessagesMailboxName</key>
+			<string>Sent Items</string>
+			<key>StoreDraftsOnServer</key>
+			<string>YES</string>
+			<key>StoreSentMessagesOnServer</key>
+			<string>YES</string>
+			<key>ToDosMailboxName</key>
+			<string>Tasks</string>
+			<key>TrashMailboxName</key>
+			<string>Deleted Items</string>
+			<key>Username</key>
+			<string></string>
+			<key>uniqueId</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>OutboxMailboxPath</key>
+	<string>~/Library/Mail/V2/Mailboxes/Outbox.mbox</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarUserAddresses</key>
+	<array>
+		<string>mailto:User email adress</string>
+	</array>
+	<key>Color</key>
+	<string>#808080FF</string>
+	<key>Delegate</key>
+	<false/>
+	<key>DeletedItemsFolderId</key>
+	<string>AAMkADc4OGJhYjYxLTZmNzAtNDk4Ny1iYmVmLWU5ZGMxODBhOWFmYQAuAAAAAAAwnjl9YDqiRbNtAs3EXeR3AQCgjsD+lOZVQbDupbJieemuAAAA9P7WAAA=</string>
+	<key>Enabled</key>
+	<true/>
+	<key>Expanded</key>
+	<true/>
+	<key>FullName</key>
+	<string>User Name</string>
+	<key>KeepOffline</key>
+	<false/>
+	<key>Key</key>
+	<string>generated UID</string>
+	<key>Login</key>
+	<string>users short name</string>
+	<key>Mailbox</key>
+	<string>User email adress</string>
+	<key>Order</key>
+	<integer>3</integer>
+	<key>RefreshInterval</key>
+	<integer>900</integer>
+	<key>ServerURL</key>
+	<string>EWS Url</string>
+	<key>Title</key>
+	<string>Users email adress</string>
+	<key>Type</key>
+	<string>Exchange</string>
+</dict>
+</plist>
