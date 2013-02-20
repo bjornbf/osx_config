@@ -1,0 +1,3 @@
+#!/bin/bash
+# Removes user .OfficePrefsSetupDone if it exist
+find /Users -name '.OfficePrefsSetupDone' -type f -delete
