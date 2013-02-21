@@ -19,7 +19,7 @@ include /usr/local/share/luggage/luggage.make
 
 TITLE=office_setup
 REVERSE_DOMAIN=no.hioa
-PACKAGE_VERSION=1.0.5
+PACKAGE_VERSION=1.3
 PAYLOAD=\
 		pack-script-preflight \
 		pack-remote-management \
